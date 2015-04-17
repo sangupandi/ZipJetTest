@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Viraj\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-annotations\2.3.0\f5e853a20b60758922453d56f9ae1e64af5cb3da\jackson-annotations-2.3.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f5e853a20b60758922453d56f9ae1e64af5cb3da">
+        <dex dex="C:\VIRU\Android\BitBucket\ZipJetTest\app\build\intermediates\pre-dexed\debug\jackson-annotations-2.3.0-ad67aad21ef1320896f2f8d03e420490d0a98023.jar" />
+    </item>
+    <item
+        jar="C:\VIRU\Android\BitBucket\ZipJetTest\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\VIRU\Android\BitBucket\ZipJetTest\app\build\intermediates\pre-dexed\debug\classes-f1d92f5b22ee071a0b61656d113b1b3ca64c9a51.jar" />
+    </item>
+    <item
+        jar="C:\VIRU\Android\BitBucket\ZipJetTest\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\VIRU\Android\BitBucket\ZipJetTest\app\build\intermediates\pre-dexed\debug\classes-c8558864d26272a8b98aa5ddbffda806becf2342.jar" />
+    </item>
+    <item
+        jar="C:\Users\Viraj\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-databind\2.3.0\76eb119e9f7769c5b124afbfa17ed0c63cab4920\jackson-databind-2.3.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="76eb119e9f7769c5b124afbfa17ed0c63cab4920">
+        <dex dex="C:\VIRU\Android\BitBucket\ZipJetTest\app\build\intermediates\pre-dexed\debug\jackson-databind-2.3.0-8c61eca96e3fbb37301ec626ee9abe443be00392.jar" />
+    </item>
+    <item
+        jar="C:\VIRU\Android\BitBucket\ZipJetTest\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\VIRU\Android\BitBucket\ZipJetTest\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-9d070a3f6f4bd3aebfdffc6df2a7117f7d349642.jar" />
+    </item>
+    <item
+        jar="C:\Users\Viraj\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\VIRU\Android\BitBucket\ZipJetTest\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-d3e67a5928613ffd2437f4a4c58d5769dc32f1a7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Viraj\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.3.0\5e19d8381e01aa64c9dd47ff453e39abc441775c\jackson-core-2.3.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5e19d8381e01aa64c9dd47ff453e39abc441775c">
+        <dex dex="C:\VIRU\Android\BitBucket\ZipJetTest\app\build\intermediates\pre-dexed\debug\jackson-core-2.3.0-b3f41059dd1fe9cc44ea166a11b4d6534f0b5a8d.jar" />
+    </item>
+
+</items>
